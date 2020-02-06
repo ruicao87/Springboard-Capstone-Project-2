@@ -1,4 +1,4 @@
-# Springboard-Capstone-Project-2
+# Forecasting Bike Rental Demand
 
 ## Introduction
 
